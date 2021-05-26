@@ -79,7 +79,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Open the file Exercises.xcodeproj 
+Open the file Exercises1.xcodeproj 
 
 ### Prerequisites
 
