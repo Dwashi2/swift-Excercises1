@@ -74,6 +74,9 @@
      doubleChar("String") ➞ "SSttrriinngg"
      doubleChar("Hello World!") ➞ "HHeelllloo  WWoorrlldd!!"
      doubleChar("1234!_ ") ➞ "11223344!!__  "
+     
+     
+     Exercices are from: https://edabit.com/challenges/swift
 
 
 <!-- GETTING STARTED -->
