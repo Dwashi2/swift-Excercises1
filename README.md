@@ -1,5 +1,4 @@
-
-# swift-Challange1
+# swift-Excercises1
 
 <!-- PROJECT LOGO -->
 <br />
