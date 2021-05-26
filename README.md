@@ -55,7 +55,7 @@
      firstLast(["edabit", 13, false, true]) ➞ ["edabit", true]
      firstLast(["hello", "edabit", "dot", "com"]) ➞ ["hello", "com"]
      
-     Exercise 4
+    ## Exercise 4
      Your function will be passed two functions, f and g, that don't take any parameters. Your function has to call them, and return a string which indicates which function returned the larger number.
 
      If f returns the larger number, return the string f.
